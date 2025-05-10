@@ -1,8 +1,17 @@
 {
-	"themes":{
-		"lotm":{
-			"version": 0.1.0,
-			"author": "Tranhumanist",
-		}
+	"lotm": {
+		"name": "lotm",
+		"version": "0.1.0",
+		"author": "Tranhumanist"
+	},
+	"rose-pine": {
+		"name": "rose-pine",
+		"version": "0.1.0",
+		"author": "Tranhumanist"
+	},
+	"gruvbox": {
+		"name": "gruvbox",
+		"version": "0.1.0",
+		"author": "Tranhumanist"
 	}
 }
