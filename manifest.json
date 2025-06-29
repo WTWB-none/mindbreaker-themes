@@ -1,12 +1,15 @@
 {
-	"rose-pine": {
-		"name": "rose-pine",
-		"version": "0.1.0",
-		"author": "Tranhumanist"
-	},
-	"gruvbox": {
-		"name": "gruvbox",
-		"version": "0.1.0",
-		"author": "Tranhumanist"
-	}
+  "repo_type": "Theme",
+  "members": [
+    {
+      "name": "rose-pine",
+      "version": "0.1.0",
+      "author": "Tranhumanist"
+    },
+    {
+      "name": "gruvbox",
+      "version": "0.1.0",
+      "author": "Tranhumanist"
+    }
+  ]
 }
