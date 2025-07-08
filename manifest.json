@@ -10,6 +10,11 @@
       "name": "gruvbox",
       "version": "0.1.0",
       "author": "Tranhumanist"
+    },
+    {
+      "name": "rose-pine-term",
+      "version": "0.1.0",
+      "author": "Tranhumanist"
     }
   ]
 }
